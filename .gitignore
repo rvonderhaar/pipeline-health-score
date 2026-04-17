@@ -1,3 +1,5 @@
 __pycache__/
 Test Files/
 *.pyc
+launcher/
+PipelineHealthScore-Launcher.zip
